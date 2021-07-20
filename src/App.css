@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.title{
+  background: rgb(43, 40, 40);
+  padding: 50px 30px;
+  color: antiquewhite;
+}
+.quote{
+  margin: 20px 10% 0 10%;
+  padding: 5%;
+  font-family:  'Courier New', Courier, monospace
+}
+.author{
+  margin: 0% 55% 1% 10%;
+  font-weight: bolder;
+  font-family:  'Courier New', Courier, monospace
+}
